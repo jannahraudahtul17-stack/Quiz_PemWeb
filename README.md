@@ -4,9 +4,9 @@
 
 | | |
 |---|---|
-| **Nama** | ISI_NAMA_LENGKAP |
-| **NIM** | ISI_NIM |
-| **Kelas** | ISI_KELAS |
+| **Nama** | Raudatul Janna |
+| **NIM** | 251401012 |
+| **LAB** | 5 |
 | **Mata Kuliah** | Praktikum Pemrograman Web |
 
 Repository ini berisi aplikasi To-Do List (React + Vite) untuk Kuis Praktikum Pengembangan Frontend.
